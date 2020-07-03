@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244232455113",
+    "firebase_url": "https://uploadphoto-e4288.firebaseio.com",
+    "project_id": "uploadphoto-e4288",
+    "storage_bucket": "uploadphoto-e4288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244232455113:android:61f426fdb08c1cd7565e18",
+        "android_client_info": {
+          "package_name": "com.example.fileuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244232455113-pfl608hqr15gbtuml5jr6517drifbhdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk9XBheqLpvr8bHyJ5mQyzA2fDQ36g6XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244232455113-pfl608hqr15gbtuml5jr6517drifbhdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
